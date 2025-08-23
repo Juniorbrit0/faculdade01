@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #painel-sobre{
 	margin-top: 20px;
 }
@@ -6,4 +7,14 @@
 	background-color: #0275D8;
 	padding: 10px;
 	
+=======
+#painel-sobre{
+	margin-top: 20px;
+}
+
+.titulo-clientes{
+	background-color: #0275D8;
+	padding: 10px;
+	
+>>>>>>> 54f6ae0 (Salvar arquivos locais antes do pull)
 }
